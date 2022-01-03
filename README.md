@@ -1,5 +1,5 @@
 # What I used to learn how to code!!
-There are a lot of resources online on how to develop applications, so I wanted to list out all the resources I used to get to where I am. I'm mainly a web developer by the way. I haven't explored apps outside of the browser yet though.
+There are a lot of resources online on how to develop applications, so I wanted to list out all the resources I used to get to where I am. I'm mainly a web developer by the way. I haven't explored apps outside of the browser yet though.  
 P.S. I'm a CS student, so I've used my university's resources too, but most of the useful thing I've learned have been self-taught.
 
 ## Tools 🔨
