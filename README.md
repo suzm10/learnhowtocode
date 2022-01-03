@@ -4,19 +4,19 @@ P.S. I'm a CS student, so I've used my university's resources too, but most of t
 
 ## Tools 🔨
 First, I had to download the tools and technologies I use on a daily basis. Right now, I use VSCode as a code editor, github to manage my git repositories, zsh as a terminal, and I occasionally use github desktop to run git commands. I also need node.js for daily development as I'm mainly a js developer. And lastly, I use Figma to prototype my designs.
-1. https://code.visualstudio.com/
-2. https://desktop.github.com/
-3. https://nodejs.org/en/
-4. https://ohmyz.sh/
-5. https://www.figma.com
+1. [VSCode](https://code.visualstudio.com/)
+2. [GitHub Desktop](https://desktop.github.com/)
+3. [Node](https://nodejs.org/en/)
+4. [ZSH](https://ohmyz.sh/)
+5. [Figma](https://www.figma.com)
 ** It's really useful to know how to use your terminal btw. You should understand basic commands like `cd` and `touch`. I picked them up overtime, but I recommend looking up a tutorial if you're a complete beginner.
 
 ## Tech Documentation 🗒
 I think reading documentation is the best way to learn how to use a tool. Personally, I use React, Next.js, Tailwind CSS, and a few more. I find the documentation for them and the tutorials they provide to be the best starting point, so here they are: 
-1. https://beta.reactjs.org/
-2. https://reactjs.org/docs/getting-started.html
-3. https://nextjs.org/
-4. https://tailwindcss.com/
+1. [New React Docs](https://beta.reactjs.org/) (with hooks!!)
+2. [Old React Docs](https://reactjs.org/docs/getting-started.html) (with classes but still useful)
+3. [Next.js Docs](https://nextjs.org/)
+4. [Tailwind CSS Docs](https://tailwindcss.com/)
 
 ## Web Development 💻
 - I've only really followed one [full stack web development course](https://fullstackopen.com/en/) from the University of Helsinki (not my university btw). It's a free, open online course, and I'm only 1/3 of the way through, but I've already learned so much. Like now I know more about react hooks, promises, how to make a json server, how to use axios, communicate with a backend rest api, use css, and more. The content and exercises are very high quality, and I really like it because you get to use VSCode as an editor and push your code to github. I find myself using the articles there as a reference too.
