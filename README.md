@@ -8,7 +8,7 @@ First, I had to download the tools and technologies I use on a daily basis. Righ
 2. [GitHub Desktop](https://desktop.github.com/)
 3. [Node](https://nodejs.org/en/)
 4. [ZSH](https://ohmyz.sh/)
-5. [Figma](https://www.figma.com)
+5. [Figma](https://www.figma.com)   
 ** It's really useful to know how to use your terminal btw. You should understand basic commands like `cd` and `touch`. I picked them up overtime, but I recommend looking up a tutorial if you're a complete beginner.
 
 ## Tech Documentation 🗒
