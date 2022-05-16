@@ -31,7 +31,7 @@ To get started in web development, I watched a lot of youtube tutorials because 
 4. [Programming with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=422s)
 5. [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) (also I love Mike Dane)
 
-## Java/Python Programming Problems (aka leetcode 👎)
+## Java/Python Programming Problems (aka leetcode ?)
 My university made us do a lot of coding problems in the intro to cs classes, and here are some resources I used to better understand oop and basic programming concepts. I don't really use Java or Python for web development or anything else though. However, I think it's still important to understand basic programming concepts.
 1. [The University of Helsinki's Open Online Intro to Programming Course in Python](https://programming-21.mooc.fi/)
 2. [The University of Helsinki's Java Programming Course](https://java-programming.mooc.fi/)
